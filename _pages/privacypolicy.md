@@ -86,7 +86,7 @@ Trong trường hợp **Hocbaionha** có thể cung cấp quyền truy cập và
 Chính sách của **Hocbaionha** về sự riêng tư có thể thay đổi trong từng thời điểm. **Hocbaionha** sẽ đăng bất kỳ thay đổi nào đối với chính sách về sự riêng tư trên trang này và thông báo nổi bật với những thay đổi quan trọng.
 **Hocbaionha** giữ riêng tư và an toàn cho thông tin cá nhân của Bạn — đồng thời, Bạn nắm quyền kiểm soát.
 
-# Phụ lục: Các thuật ngữ chính
+## Phụ lục: Các thuật ngữ chính
 - Cookie và các công nghệ tương tự: Cookie là một tệp nhỏ chứa một chuỗi các ký tự được gửi tới máy tính của Bạn khi Bạn truy cập một trang web. Khi Bạn truy cập lại trang web, cookie cho phép trang web đó nhận dạng trình duyệt của Bạn. Cookie có thể lưu trữ tùy chọn của người dùng và các thông tin khác. Bạn có thể đặt lại trình duyệt thành từ chối tất cả cookie hoặc cho biết thời điểm gửi cookie. Tuy nhiên, một số tính năng hoặc sản phẩm, dịch vụ của trang web có thể không hoạt động đúng cách nếu không có cookie.
 - Thiết bị: là một máy tính có thể dùng để truy cập các sản phẩm, dịch vụ của Google. Ví dụ: thiết bị có thể là máy tính để Bạn, máy tính Bảng hay điện thoại thông minh.
 - Địa chỉ IP: Mọi thiết bị kết nối Internet được gán một số gọi là địa chỉ giao thức Internet (IP). Các số này thường được gán theo nhóm địa lý. Địa chỉ IP có thể thường được sử dụng để xác định vị trí mà một thiết bị đang kết nối Internet từ đó.
