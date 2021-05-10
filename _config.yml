@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Hocbaionha                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Miễn phí                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Hocbaionha là nền tảng giáo dục trực tuyến được tin tưởng bởi hơn 100 trường THCS ở Việt Nam.
+app_description                           : Hocbaionha là nền tảng giáo dục trực tuyến cho học sinh được hơn 200 trường THCS ở Việt Nam tin tưởng và đưa vào giảng dạy cho nhà trường.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,17 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Nội dung giáo dục toàn diện
-    description                           : Chương trình phổ thông chính khóa của Bộ GD và Đào tạo các chuẩn mực giáo dục và sư phạm hiện đại. Bài học, bài tập tương tác, trải nghiệm mô phỏng, chương trình luyện thi với cách thức truyền tải đa phương tiện
+  - title                                 : Nội dung chương trình chuẩn mực
+    description                           : Chương trình các môn học Toán, Ngữ văn, Tiếng Anh THCS được biên soạn theo cấu trúc Sách giáo khoa của Bộ Giáo dục và Đào tạo, sử dụng song song với chương trình học trên lớp. Ngoài ra còn có các chương trình học Toán, Tiếng Anh và IT theo giáo trình nước ngoài để học sinh nâng cao kiến thức.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Ứng dụng công nghệ tiên tiến
-    description                           : Ứng dụng những công nghệ tiên tiến và phổ biến trên thế giới trong lĩnh vực giáo dục để xây dựng hệ thống và các nội dung số.
+  - title                                 : Phương pháp học tập hiện đại
+    description                           : Ứng dụng các phương pháp giảng dạy hiện đại để giúp cho học sinh và giáo viên tiếp cận với các kiến thức cập nhật trên thế giới, tích hợp các công cụ hỗ trợ học sinh tương tác trực tiếp và làm chủ bài học giúp học tập chủ động.
     fontawesome_icon_name                 : star
 
-  - title                                 : Dịch vụ hỗ trợ người dùng
-    description                           : Cung cấp dịch vụ hỗ trợ học sinh học tập qua tin nhắn trên hệ thống và dịch vụ đào tạo, tập huấn, hướng dẫn, và hỗ trợ giáo viên.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Đội ngũ giáo viên chuyên môn cao
+    description                           : Chương trình được biên soạn và kiểm duyệt bởi đội ngũ thầy cô giáo là các Tiến sĩ, Thạc sĩ có trình độ chuyên môn và kinh nghiệm giảng dạy lâu năm.
+    fontawesome_icon_name                 : graduation-cap
+
+  - title                                 : Công nghệ tiên tiến
+    description                           : Ứng dụng các công nghệ giáo dục tiên tiến nhất hiện nay trên thế giới để tạo một môi trường học tập hiệu quả, thân thiện, đa nền tảng và cá nhân hoá lộ trình học tập cho từng học sinh. Các tính năng độc quyền được phát triển cũng giúp giáo viên dễ dàng kết nối, giao bài tập và theo dõi tình hình học tập của học sinh một cách đơn giản và thiết thực.
+    fontawesome_icon_name                 : bolt
+  
+  - title                                 : Hỗ trợ và đồng hành với người dùng
+    description                           : Đội ngũ hỗ trợ luôn theo sát để giải đáp, hướng dẫn và định hướng học tập cho học sinh, phụ huynh, giáo viên trong suốt quá trình sử dụng.
+    fontawesome_icon_name                 : phone-square-alt
 
 
 # Theme Settings
